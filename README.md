@@ -81,7 +81,7 @@ Stock-Price-Predictor/
 
 
 ##  **License**  
-This project is licensed under the **GNU General Public License v3.0**. See the [LICENSE](LICENSE) file for details.  
+This project is licensed under the **GNU General Public License v3.0**. See the [LICENSE](https://github.com/Aryaman1705/Stock-Price-Predictor?tab=GPL-3.0-1-ov-file) file for details.  
 
 ---
 
